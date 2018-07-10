@@ -19,4 +19,28 @@
 
 **Thoughts** : I was sooo late for the assigment 
 
-**Link of Work:**   [Commit](https://github.com/MShokry/aind2-rnn)
+**Link of Work:**   [Project](https://github.com/MShokry/aind2-rnn)
+
+## Day 2 : Jul 8 , 2018
+
+**Today's Progress** : Assigmnet Done RNN Text generator
+
+**Thoughts** : Selecting Computer Vision as a concentration
+
+**Link of Work:**   [Project](https://github.com/MShokry/aind2-rnn)
+
+## Day 3 : Jul 9 , 2018
+
+**Today's Progress** : Blood Donation from Driven Data 1050/4533 score 1.1035  @start
+
+**Thoughts** : I need to improve my score 
+
+**Link of Work:**   [Score](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/submissions/)
+
+## Day 4 : Jul 10 , 2018
+
+**Today's Progress** : Blood Donation from Driven Data 327/4533 score 0.4429 @today
+
+**Thoughts** : I need to improve my score Again To be in top 5% now at top 6%
+
+**Link of Work:**   [Score](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/submissions/)
