@@ -44,3 +44,33 @@
 **Thoughts** : I need to improve my score Again To be in top 5% now at top 6%
 
 **Link of Work:**   [Score](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/submissions/)
+
+## Day 5 : Jul 11 , 2018
+
+**Today's Progress** : Blood Donation from Driven Data 307/4533 score 0.4429 @today
+
+**Thoughts** : I need to improve my score Again To be in top 5% 
+
+**Link of Work:**   [Score](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/submissions/)
+
+## Day 6 : Jul 12 , 2018
+
+**Today's Progress** : Autoencoders
+
+**Link of Work:**   [Youtube](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+
+## Day 7 : Jul 13 , 2018
+
+**Today's Progress** : Keras Model Visualization
+
+## Day 8 : Jul 14 , 2018
+
+**Today's Progress** : None
+
+## Day 9 : Jul 15 , 2018
+
+**Today's Progress** : None
+
+## Day 10 : Jul 16 , 2018
+
+**Today's Progress** : None
